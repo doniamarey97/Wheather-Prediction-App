@@ -1,2 +1,2 @@
-# Wheather-Prediction-App
-Weather Prediction ML Model
+# Weather Prediction ML Model
+
